@@ -1,8 +1,8 @@
 create database Agenda;
 use Agenda;
-
+drop table Tarefa;
 create table Tarefa(
-id_tarefa int,
+id_tarefa int primary key,
 descricao_tarefa varchar(100),
 data_inico_tarefa date,
 data_fim_tarefa date
