@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Agenda de Alexandre Lima</title>
+    <title>Alexandre Lima e Wesley Lima</title>
     <style>
         *{
             margin: 0px;
