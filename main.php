@@ -9,7 +9,7 @@
         ?>
         <div class="hidden">
         <?php
-        echo 'Inicio: '.$row->data_inico_tarefa.'<br>';
+        echo 'Inicio: '.$row->data_inicio_tarefa.'<br>';
         echo 'Fim:'.$row->data_fim_tarefa.'<br><br>';
         ?>
         </div><div id="color"></div>
